@@ -1,0 +1,31 @@
+.nav-pills>li>a.active {
+    background-color: #ff0000 !important;
+    color: #ffffff !important;
+}
+
+.nav-pills>li>a:hover,
+.card-link:hover {
+    color: #ffffff !important;
+}
+
+.nav-link-color {
+    color: #ffffff;
+}
+
+.nav-pills>li>a,
+.card-link,
+a {
+    color: red !important;
+}
+
+body {
+    background-color: #414141;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    color: silver !important;
+}
