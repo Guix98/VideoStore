@@ -10,10 +10,10 @@ $head = include('../components/header.php');
             <a class="nav-link " href="../index.php">Rents</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Customers</a>
+            <a class="nav-link" href="./customers.php">Customers</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link active" href="./pages/movies.php">Movies</a>
+            <a class="nav-link active" href="./movies.php">Movies</a>
         </li>
         <li class="nav-item">
             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Log Out</a>

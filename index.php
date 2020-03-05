@@ -1,5 +1,5 @@
 <?php
-$head= include('./components/header.php');
+$head = include('./components/header.php');
 ?>
 
 <body>
@@ -10,7 +10,7 @@ $head= include('./components/header.php');
             <a class="nav-link active" href="#">Rents</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Customers</a>
+            <a class="nav-link" href="./pages/customers.php">Customers</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="./pages/movies.php">Movies</a>
