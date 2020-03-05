@@ -661,6 +661,7 @@ textarea.input100 {
   padding-bottom: 30px;
 }
 
+
 .contact100-form-range-value input {
   display: none;
 }
@@ -727,3 +728,27 @@ textarea.input100 {
     padding: 15px 0px 0 0px;
   }
 }
+
+
+/*------------------------------------------------------------------
+[ Button 2]*/
+
+button2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  width: 100%;
+  height: 50px;
+  background-color: #333333;
+  border-radius: 25px;
+  font-family: Montserrat-Medium;
+  font-size: 50px;
+  color: #fff;
+  line-height: 1.2;
+}
+
+
+.button2:hover {
+  background-color: #00ad5f;
+} 
